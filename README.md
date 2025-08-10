@@ -1,52 +1,30 @@
-\# Retail Sales Forecasting \& Inventory Optimization Dashboard
+\# Retail Sales Forecasting \& Inventory Optimization
 
 
 
-This project analyzes Walmart sales data to forecast future sales and optimize inventory planning.
+\## 📌 Project Overview
 
-The goal is to reduce stockouts and excess inventory using predictive insights and an interactive dashboard.
+This project analyzes Walmart’s historical retail sales data to \*\*forecast future sales\*\* and \*\*optimize inventory planning\*\*.  
 
-
-
-\## Features
-
-\- Data cleaning \& preprocessing (pandas, numpy)
-
-\- Exploratory data analysis (EDA)
-
-\- Sales forecasting (added later)
-
-\- Inventory optimization recommendations (later)
-
-\- Power BI dashboard for decision support
+It follows an end-to-end \*\*data analytics workflow\*\* — from \*\*data cleaning (ETL)\*\* to \*\*feature engineering\*\*, \*\*EDA\*\*, and \*\*predictive modeling\*\*.
 
 
 
-\## How to Run
+The goal is to build \*\*data-driven insights\*\* that help retailers:
 
-1\) Create a virtual environment and install dependencies
+\- Anticipate demand fluctuations
 
-2\) Run notebooks in order:
+\- Avoid stockouts \& overstocking
 
-&nbsp;  - notebooks/01\_data\_cleaning.ipynb
+\- Improve supply chain efficiency
 
-&nbsp;  - notebooks/02\_feature\_engineering.ipynb
-
-&nbsp;  - notebooks/03\_forecasting\_model.ipynb
-
-&nbsp;  - notebooks/04\_dashboard\_build.ipynb
+\- Increase profitability
 
 
 
-\## Dataset
-
-\- data/raw/Walmart\_Sales.csv
+---
 
 
 
-\## Author
-
-Saketh Dasari — Master’s Student in Business Analytics, Lewis University
-
-
+\## 📂 Project Structure
 
